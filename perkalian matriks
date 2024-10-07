@@ -24,5 +24,4 @@ print(f"Kolom matriks b adalah:{kolom_b}" )
 if (kolom_a != baris_b):
     print("matriks a dengan b tidak dapat di kalikan")
 else:
-    print('''
-Matriks a dengan b dapat di kalikan''')
+    print("Matriks a dengan b dapat di kalikan")
