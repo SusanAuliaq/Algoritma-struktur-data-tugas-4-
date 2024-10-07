@@ -1,13 +1,13 @@
 BEGIN
 
     // Mendefinisikan matriks A dan B
-    A = [[3, 1, 2],
-         [4, 5, 1],
-         [1, 2, 4]]
+    A =  [[1, 3, 1],
+         [1, 0, 0],
+         [1, 2, 2]]
 
-    B = [[5, 6, 3],
-         [1, 2, 5],
-         [7, 3, 3]]
+    B = [[5, 0, 0],
+         [7, 5, 0],
+         [2, 1, 1]]
 
     // Menghitung jumlah baris dan kolom untuk matriks A
     baris_a = LENGTH(A)
